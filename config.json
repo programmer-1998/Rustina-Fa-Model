@@ -1,0 +1,18 @@
+{
+  "model_name": "Rustina-V1-Fa",
+  "brand": "Rustina",
+  "developer": "Sina Khanzadeh",
+  "website": "https://sina-khanzadeh.ir",
+  "language": "fa",
+  "specialization": "Persian Language & Literature Expert",
+  "architecture": "qwen3",
+  "parameters": "0.6B",
+  "quantization": "Q4_K_M",
+  "context_length": 2048,
+  "recommended_sampler": {
+    "temperature": 0.4,
+    "top_k": 40,
+    "top_p": 0.95,
+    "repetition_penalty": 1.1
+  }
+}

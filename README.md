@@ -59,7 +59,7 @@ cargo build --release
 ## 📥 دانلود مدل
 
 فایل کوانتیزه آماده اجرا با فرمت GGUF را می‌توانید مستقیماً از بخش Releases دریافت کنید:
-* **[دانلود مستقیم Rustina-V1-Fa-Q4_K_M.gguf](https://github.com/RustinaCo/rustina-fa/releases)** (حجم: ۳۴۲ مگابایت)
+* **[دانلود مستقیم Rustina-V1-Fa-Q4_K_M.gguf](https://github.com/programmer-1998/Rustina-Fa-Model/releases)** (حجم: ۳۴۲ مگابایت)
 
 ---
 

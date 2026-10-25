@@ -3,6 +3,10 @@
 **مدل هوش مصنوعی سبک، سریع و تخصصی زبان فارسی (Rustina V1 Fa)**  
 توسعه داده شده توسط **سینا خانزاده** ([sina-khanzadeh.ir](https://sina-khanzadeh.ir)) تحت برند رسمی **راستینا (Rustina)**.
 
+> ### 📦 **دانلود مستقیم مدل و فایل‌های اجرایی (آماده به کار با یک کلیک):**
+> ### 📥 **[دانلود پکیج کامل مدل از گوگل درایو (Google Drive) — ۳۳۴ مگابایت](https://drive.google.com/file/d/1k5V8ZPcBD0DhnbfbmF0ppO-IJZGXvizY/view?usp=sharing)**
+> *(شامل فایل وزن‌های کوانتیزه `Rustina-V1-Fa-Q4_K_M.gguf` + اسکریپت‌های اجرای خودکار `run.sh` و `run.bat`)*
+
 ---
 
 ## 🌟 معرفی پروژه
@@ -17,16 +21,12 @@
 
 ---
 
-## 📥 دانلود مدل و فایل‌های اجرایی
+## 📥 لینک‌های دریافت مدل
 
-فایل مدل اصلی به همراه اسکریپت‌های راه‌اندازی در دو مسیر در دسترس است:
-
-### ۱. لینک مستقیم گوگل درایو (Google Drive) 📦
-می‌توانید پکیج کامل شامل وزن مدل و اسکریپت‌های آماده را از لینک زیر دانلود کنید:
-* **[دانلود مستقیم پکیج کامل از گوگل درایو (Google Drive)]({{GOOGLE_DRIVE_LINK}})** (فایل زیپ: `Rustina-V1-Fa-Package.zip`)
-
-### ۲. بخش Releases گیت‌هاب
-* **[دانلود از GitHub Releases](https://github.com/programmer-1998/Rustina-Fa-Model/releases)** (فایل `Rustina-V1-Fa-Q4_K_M.gguf` با حجم ۳۴۲ مگابایت)
+| منبع دانلود | محتویات | لینک دریافت |
+|---|---|---|
+| **گوگل درایو (پیشنهادی)** | پکیج کامل شامل وزن‌های مدل + رانرها | 📥 **[دانلود فایل زیپ از Google Drive](https://drive.google.com/file/d/1k5V8ZPcBD0DhnbfbmF0ppO-IJZGXvizY/view?usp=sharing)** |
+| **گیت‌هاب ریلیز** | فایل باینری GGUF به صورت تکی | 📥 **[دانلود از GitHub Releases](https://github.com/programmer-1998/Rustina-Fa-Model/releases)** |
 
 ---
 
